@@ -71,8 +71,9 @@ Legenda: 🟢 feito · 🟠 a construir, sem bloqueio · 🔴 bloqueado por aces
 
 | O que falta | Quem resolve | Status |
 |---|---|---|
-| Credencial UAZAPI (URL base + token da instância conectada ao SIM) | Time Blumel (Gabriel) | Pedido enviado, aguardando resposta |
-| Acesso à API do Zapsign | Time Blumel | Não confirmado |
+| Credencial UAZAPI (URL base + token da instância conectada ao SIM) | Time Blumel (Gabriel) | Recebida; salva no n8n (a confirmar) |
+| Acesso à API do Zapsign | Time Blumel | Chave recebida; salva no n8n (a confirmar) |
 | Acesso à API do Asaas | Time Blumel | Não confirmado (fora do Fluxo 1) |
-| Modelo de contrato no Google Docs + credencial Google | Amplio / Blumel | Não iniciado |
+| Modelo de contrato no Google Docs + credencial Google | Amplio / Blumel | Credencial Drive no n8n (a confirmar); modelo pendente |
+| Instância n8n + chave de API | Amplio | Aguardando confirmação da instância |
 | Canal de envio do Form de Coleta | Amplio | Decidido: WhatsApp via UAZAPI |
