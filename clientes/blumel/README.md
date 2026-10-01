@@ -43,7 +43,7 @@ Status configurados:
 | Serviço | Uso | Acesso |
 |---|---|---|
 | UAZAPI | Envio do Form de Coleta por WhatsApp | Token recebido; credencial no n8n (a confirmar) |
-| Zapsign | Assinatura do contrato + webhook de retorno | Chave API recebida; credencial no n8n (a confirmar) |
+| Zapsign | Assinatura do contrato + webhook de retorno | API testada e funcionando (01/10); credencial no n8n (a confirmar) |
 | Google Drive/Docs | Geração do contrato a partir de modelo | Credencial no n8n (a confirmar); modelo de contrato pendente |
 | Asaas | Cobrança (fora do Fluxo 1) | Não confirmado |
 
